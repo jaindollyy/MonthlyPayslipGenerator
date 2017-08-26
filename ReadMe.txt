@@ -39,7 +39,7 @@ Ryan Chen,01 March – 31 March,10000,2696,7304,1000
 MonthlyPayslip. Application is written in Visual Studio 2017( Community version) .It contains three projects:-
 1) MonthlyPayslip.Application  ( Console Application to read input text file and generate output text file.)
 2) MonthlyPayslip.calculator  (Class library having income tax calculation logic and payslip generator engine, Helpers, Entities)
-3) MonthlyPayslip.Tests (Test for calculator)
+3) MonthlyPayslip.Tests (MS Unit Tests)
 
 
 ************How to run this project************
@@ -48,7 +48,6 @@ MonthlyPayslip. Application is written in Visual Studio 2017( Community version)
 2) Before running the project, place the Input.txt file containing inputs in special folder Documents
 3) Run the console application , it will show the output file path in console window, press enter to close the console window
 4) Output.txt file will be generated in same location.
-l
 
 
 
